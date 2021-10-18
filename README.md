@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cubasunday
+- 👋 Hi, I’m @cuban1edziela
 - 👀 I’m interested in astrophysics 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
